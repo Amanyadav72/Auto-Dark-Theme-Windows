@@ -2,6 +2,10 @@
 
 A lightweight Windows utility that switches between light and dark mode on a daily schedule. Built with **C++17 and the native Win32 API**, with a settings window and a moon icon in the system tray.
 
+[☕ Buy me a coffee](https://www.buymeacoffee.com/AmanYadav07)
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/AmanYadav07)
+
 ## Features
 
 - Configurable light and dark start times, including overnight schedules.
